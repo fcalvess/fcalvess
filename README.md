@@ -28,7 +28,7 @@ Projeto 3 – Registro e documentação de bugs
 
 Projeto Final – Ciclo completo de testes em ambiente simulado
 
-(Os detalhes estão nos repositórios que você fixar no perfil.)
+
 
 📊 Estatísticas do GitHub
 <p> <img align="left" alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=fcalvess&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />

@@ -1,43 +1,64 @@
-## 👩🏻‍💻 Fernanda Carneiro Alves
+# 👩‍💻 Fernanda Carneiro Alves
 
-Junior QA Engineer | Manual Testing – Exploratory & Bug Reporting
+### Junior QA Engineer | Manual Testing | Exploratory Testing | Bug Reporting
 
-Sou Junior QA Engineer formada pelo bootcamp da TripleTen, apaixonada por garantir a qualidade de softwares e transformar falhas em oportunidades de melhoria.
-Durante o bootcamp, desenvolvi projetos reais aplicando testes manuais, exploratórios, criação de casos de teste e documentação de bugs.
+---
 
-Estou em busca da minha primeira oportunidade como QA Engineer Junior, contribuindo com atenção aos detalhes, pensamento crítico e foco na experiência do usuário.
+## 💡 About me
 
-<p align="left"> <a href="https://github.com/fcalvess?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fcalvess?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" /> </a> <a href="https://github.com/fcalvess?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/fcalvess?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
-🛠️ Habilidades Técnicas
+I am a Junior QA Engineer trained through the TripleTen bootcamp, passionate about software quality and user experience.
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Manual Testing" title="Manual Testing" width="30px" style="padding-right: 10px" src="https://img.shields.io/badge/Manual%20Testing-FF6F61?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="Bug Reporting" title="Bug Reporting" width="30px" style="padding-right: 10px" src="https://img.shields.io/badge/Bug%20Reporting-F7DF1E?style=for-the-badge&logo=bug&logoColor=black" />
-<img align="left" alt="Test Cases" title="Test Cases" width="30px" style="padding-right: 10px" src="https://img.shields.io/badge/Test%20Cases-00C853?style=for-the-badge&logo=check-square&logoColor=white" />
+I specialize in manual testing, exploratory testing, test case design, and bug reporting, with a strong focus on identifying issues before they reach the end user.
 
-<br/><br/>
+During my training, I worked on real-world QA projects, participating in full testing cycles from planning and execution to documentation and reporting.
 
-📂 Projetos em Destaque
+---
 
-Projeto 1 – Criação de casos de teste
+## 🛠️ Skills
 
-Projeto 2 – Testes exploratórios em aplicação web
+- Manual Testing  
+- Exploratory Testing  
+- Test Case Design  
+- Bug Reporting  
+- Git & GitHub  
+- Python (basic)
 
-Projeto 3 – Registro e documentação de bugs
+---
 
-Projeto Final – Ciclo completo de testes em ambiente simulado
+## 📂 Featured Projects
 
+- 🧪 Web Application Test Case Design  
+- 🔍 Exploratory Testing on Web Platforms  
+- 🐞 Bug Reporting & Documentation Practice  
+- 🚀 End-to-End QA Testing Final Project  
 
+---
 
-📊 Estatísticas do GitHub
-<p> <img align="left" alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=fcalvess&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+## 🎯 What I'm looking for
 
-<img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcalvess&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+I am currently seeking my first opportunity as a Junior QA Engineer, where I can contribute with attention to detail, critical thinking, and a strong focus on product quality and user experience.
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fcalvess&show_icons=true&theme=tokyonight&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcalvess&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<br/><br/>
+---
+
+## 🤝 Contact
+
+- 📍 Portugal  
+- 📧 fernandacarneiroalvess@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/fernanda-alves-09b36431  
+- 💻 GitHub: https://github.com/fcalvess  
+
+---
+
+⭐ Thank you for visiting my profile!
 
 🤝 Contato +351 915 947 225
 

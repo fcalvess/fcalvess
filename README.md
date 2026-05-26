@@ -51,17 +51,9 @@ I am currently seeking my first opportunity as a Junior QA Engineer, where I can
 
 ## 🤝 Contact
 
-- 📍 Portugal  
-- 📧 fernandacarneiroalvess@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/fernanda-alves-09b36431  
-- 💻 GitHub: https://github.com/fcalvess  
-
----
+📍 Portugal  
+📧 fernandacarneiroalvess@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/fernanda-alves-09b36431  
+💻 GitHub: https://github.com/fcalvess  
 
 ⭐ Thank you for visiting my profile!
-
-🤝 Contato +351 915 947 225
-
-📍 Portugal
-🔗 LinkedIn: linkedin.com/in/fernanda-alves-09b36431
-📧 Email: fernandacarneiroalvess@gmail.com
